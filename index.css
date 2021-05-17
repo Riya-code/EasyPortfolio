@@ -1,0 +1,30 @@
+.bg-1{
+    background-color: #6c768d;
+    color: #fff;
+}
+.bg-2{
+    background-color: #1abc9c;
+}
+.bg-3{
+    background-color: #f8f8ff;
+}
+.bg-4{
+    background-color: #2f2f2f;
+    color: white;
+}
+
+.container-fluid {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+ 
+    body {
+        font: 40px Montserrat, sans-serif;
+        line-height: 1.8;
+        color: #f5f6f7;
+  }
+  h1
+  {
+      font-style: oblique;
+  }
+
